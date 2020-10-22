@@ -4,7 +4,7 @@ body {
 
 h1.sansserif {
   font-family: Helvetica, Charcoal, sans-serif;
-  font-size: 36
+  font-size: 36px;
 }
 p.impact {
   font-family: Impact, Charcoal, sans-serif;
