@@ -1,10 +1,9 @@
 body {
-  background-color: lightblue;
+  background-color: lightgrey;
 }
 
-h1 {
+.sansserif {
   font-family: Helvetica, Charcoal, sans-serif;
-  margin-left: 20px;
 }
 
 p.impact {
