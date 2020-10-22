@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+h1.sansserif {
+  font-family: Helvetica, Charcoal, sans-serif;
+}
+
+p.impact {
+  font-family: Impact, Charcoal, sans-serif;
+}
