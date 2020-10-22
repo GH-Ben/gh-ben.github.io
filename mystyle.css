@@ -4,14 +4,13 @@ body {
 
 h1.sansserif {
   font-family: Helvetica, Charcoal, sans-serif;
-  font-size: 20
+  font-size: 36
 }
-
 p.impact {
   font-family: Impact, Charcoal, sans-serif;
 }
 
-.rotate-center {
+h1.rotate-center {
 	-webkit-animation: rotate-center 0.6s ease-in-out both;
 	        animation: rotate-center 0.6s ease-in-out both;
 }
