@@ -2,8 +2,9 @@ body {
   background-color: lightgrey;
 }
 
-h1 {
+h1.sansserif {
   font-family: Helvetica, Charcoal, sans-serif;
+  font-size: 20
 }
 
 p.impact {
