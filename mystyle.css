@@ -1,5 +1,12 @@
 body {
-  background-color: lightgrey;
+    margin: 0;
+    font-family: Nunito,sans-serif;
+    font-size: .9rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #212529;
+    text-align: left;
+    background-color: #e8eae9;
 }
 
 h1.sansserif {
@@ -30,6 +37,7 @@ p.impact {
 .button1 {
   border-radius: 20px;
 }
+
 
 .inner {
     padding-left: 30px;
